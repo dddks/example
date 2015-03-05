@@ -51,7 +51,13 @@ public:
 
 };
 
-
+int ddd()
+{
+	if (1)
+	{
+		return 20;
+	}
+}
 
 int main()
 {
